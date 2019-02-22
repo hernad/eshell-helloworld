@@ -3,7 +3,7 @@
 	"displayName": "eShell helloWorld",
 	"description": "eShell helloworld",
 	"version": "0.0.1",
-	"publisher": "bout",
+	"publisher": "bringout",
 	"repository": "https://github.com/hernad/eshell-helloworld",
 	"engines": {
 		"vscode": "^1.25.0"
